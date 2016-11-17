@@ -4,27 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  "The purpose of life is to contribute in some way to making things better" - Robert F. Kennedy
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm an electrical engineer turned self-taught web developer. I want to use technology to build tools and make everyone's life better. I value and interested in open education (and owe it for what I know), human and computer languages and well documented code.
 
-There are currently two themes built on Poole:
+Most recently I was a telecommunications consultant working for Vodafone, Ericsson and Nokia-Siemens. I'm currently based in sunny Newcastle (Australia) but previously lived and worked in Madrid (Spain) and St.Petersburg (Russia).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+When I'm not learning another fancy front-end tool/framework/new language I'm answering my toddlers' questions, [reading](https://www.amazon.com/gp/registry/wishlist/20IXRZL8G8FWL/ref=cm_wl_list_o_2?), listening to music or busy with some sort of home renovation project.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The easiest way to contact me is by <a href="mailto:z.a.astafyeva@gmail.com">e-mail</a>
 
-## Setup
+:hatching_chick:
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+---
 
-Thanks for reading!
+Powered by [Jekyll](http://jekyllrb.com) and hosted for free on [GitHub Pages](https://pages.github.com)
