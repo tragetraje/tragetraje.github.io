@@ -1,7 +1,6 @@
 # Ignore files
 _site
 Gemfile
-CNAME
 
 # OS or Editor folders
 .DS_Store

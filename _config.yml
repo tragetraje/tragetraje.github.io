@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Zina Astafyeva
 tagline:          'Web Developer'
 description:      'Web Developer'
-url:              http://tragetraje.github.io
+url:              https://tragetraje.github.io
 baseurl:          /
 
 author:
