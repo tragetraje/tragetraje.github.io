@@ -1,37 +1,31 @@
----
-layout: default
-title: Home
----
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Zina Astafyeva, Web Developer</title>
+        <meta name="author" content="Zina Astafyeva">
+        <meta name="description" content="Zina Astafyeva is a Web Developer at Orica in Newcastle, Australia">
+        <link rel="stylesheet" href="style.css">
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+        <!--[if lt IE 9]>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
+        <![endif]-->
+    </head>
+    <body>
+        <div class="container">
+        <h1>💁 Hi!</h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+        <p>My name is Zina, I'm a Web Developer at <a href="https://www.orica.com/">Orica</a> in Newcastle, Australia. The easiest way to contact me is by <a href="mailto: z.a.astafyeva@gmail.com">mail</a>.</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+        <h2>🖇 Profiles</h2>
+        <ul>
+        <li><a href="https://www.linkedin.com/in/zastafyeva/">LinkedIn</a></li>
+        <li><a href="https://github.com/tragetraje">Github</a></li>
+        <li><a href="https://www.instagram.com/zastafyeva/">Instagram</a></li>
+        </ul>
+        </div>
+    </body>
+</html>
